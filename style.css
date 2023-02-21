@@ -1,0 +1,47 @@
+body{
+    font-family: 'Lora', serif;   
+}
+
+.header_div, .main_div{
+    background-color:#DF6553;
+}
+  
+.aliens{
+    background-color: #B9E3C6;
+    height:350px;
+}
+
+button{
+    background-color: #B9E3C6;
+    height:35px;
+    width:100px;
+    border-radius:10px;
+    color:black;
+    font-weight:bold;
+}
+
+.copyright_footer{
+    position:fixed;
+    bottom:0;
+    line-height:3;
+    width:100%;
+    text-align:center;
+    font-size: 17px;
+    background-color:#B9E3C6 ;
+    color:#DF6553;
+    text-shadow: 2px 5px 5px rgb(94, 54, 54);
+}
+
+h1{
+    color:blanchedalmond;
+    font-weight: bold;
+}
+
+p{
+    color: blanchedalmond;
+    font-size: 15px;
+}
+
+h3, h4{
+    color: blanchedalmond;
+}
